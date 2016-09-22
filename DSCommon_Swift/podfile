@@ -1,0 +1,5 @@
+platform:ios, '8.0'
+target 'DSCommon_Swift'do
+pod 'Alamofire'
+use_frameworks!
+end
